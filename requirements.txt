@@ -1,0 +1,6 @@
+distribute==0.6.34
+nose==1.3.0
+pyserial==2.6
+-e git+git@github.com:rawberg/sphero.git@000cd0bfa4282f9bf91a30ca31d843cbabaf8633#egg=sphero-dev
+unittest2==0.5.1
+virtualenv==1.9.1
